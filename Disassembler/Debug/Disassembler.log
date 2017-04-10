@@ -1,3 +1,6 @@
 ﻿  Main.c
-  Disassembler.vcxproj -> c:\users\omrif\documents\visual studio 2017\Projects\Disassembler\Debug\Disassembler.exe
-  Disassembler.vcxproj -> c:\users\omrif\documents\visual studio 2017\Projects\Disassembler\Debug\Disassembler.pdb (Partial PDB)
+  Instruction.c
+c:\users\omrif\documents\visual studio 2017\projects\disassembler\disassembler\instruction.c(15): warning C4013: 'printf' undefined; assuming extern returning int
+  Generating Code...
+  Disassembler.vcxproj -> C:\Users\omrif\documents\visual studio 2017\Projects\Disassembler\Debug\Disassembler.exe
+  Disassembler.vcxproj -> C:\Users\omrif\documents\visual studio 2017\Projects\Disassembler\Debug\Disassembler.pdb (Partial PDB)
